@@ -4,7 +4,7 @@ import (
 	"go-auth/database"
 	"go-auth/routes"
 
-	"github.com/gofiber/fiber/middleware/cors"
+	"github.com/gofiber/fiber/v2/middleware/cors"
 
 	"github.com/gofiber/fiber/v2"
 )
